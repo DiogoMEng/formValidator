@@ -24,4 +24,4 @@ O validador de formulários, projetado para assegurar que todas as entradas do u
 
 ## Status do Projeto
 
-<img alt="projectstatus" src="https://img.shields.io/badge/Status do Projeto-Aprimoramento-gre">
+<img alt="projectstatus" src="https://img.shields.io/badge/Status do Projeto-Finalizado-gre">
